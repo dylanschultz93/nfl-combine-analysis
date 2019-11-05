@@ -1,0 +1,140 @@
+﻿Year,First,Last,Name,College,POS,DYAR,height,weight,hand_size,arm_length,wonderlic,forty,bench,vert,broad,shuttle,cone,sixty
+2017,Mike,Williams,M.Williams,Clemson,WR,-11,75.75,218,9.38,33.38,17,,15,32.5,121,,,
+2017,ArDarius,Stewart,A.Stewart,Alabama,WR,-29,71.25,204,9.38,32.5,20,4.49,,34,124,4.21,,11.23
+2017,JuJu,Smith-Schuster,J.Smith-Schuster,Southern California,WR,316,73.25,215,10.5,32.88,,4.54,15,32.5,120,5.01,,
+2017,Curtis,Samuel,C.Samuel,Ohio State,WR,-12,71,196,9.5,31.25,22,4.31,18,37,119,4.33,7.09,
+2017,Travis,Rudolph,T.Rudolph,Florida State,WR,-49,72.25,189,9.25,31.88,,4.65,12,31.5,114,4.46,6.93,
+2017,Josh,Reynolds,J.Reynolds,Texas A&M,WR,-36,74.75,194,9.38,31.5,,4.52,,37,124,4.13,6.83,11.68
+2017,Josh,Malone,J.Malone,Tennessee,WR,-31,74.63,208,9.63,31.38,,4.4,10,30.5,121,4.19,7.05,11.32
+2017,Cooper,Kupp,C.Kupp,Eastern Washington,WR,271,73.75,204,9.5,31.5,37,4.62,,31,116,4.08,6.75,
+2017,Zay,Jones,Z.Jones,East Carolina (NC),WR,-131,73.88,201,9,32.5,,4.45,15,36.5,133,4.01,6.79,
+2017,Mack,Hollins,M.Hollins,North Carolina,WR,59,75.75,221,9.75,33.25,,4.53,,,,,,
+2017,Chad,Hansen,C.Hansen,California,WR,-17,73.75,202,10.13,32.13,,4.53,11,35,119,4.13,6.74,11.17
+2017,Kenny,Golladay,K.Golladay,Northern Illinois,WR,129,75.75,218,9.75,32,,4.5,18,35.5,120,4.15,7,
+2017,Corey,Davis,C.Davis,Western Michigan,WR,-89,74.75,209,9.13,33,31,,,,,4.28,,11.48
+2017,Amara,Darboh,A.Darboh,Michigan,WR,-7,73.75,214,9.88,32.63,,4.45,17,36,124,4.26,,11.88
+2017,Noah,Brown,N.Brown,Ohio State,WR,-14,74,222,9.13,31.75,,,19,,,4.33,7.07,
+2017,Kendrick,Bourne,K.Bourne,Eastern Washington,WR,7,73.25,203,9.13,32.5,,4.68,9,34,125,4.21,6.73,12.21
+2016,Geronimo,Allison,G.Allison,Illinois,WR,47,75.25,196,9.5,32.88,,4.67,,33,127,4.28,7.4,11.54
+2016,Demarcus,Ayers,D.Ayers,Houston,WR,7,69.38,182,9.25,31.25,,4.72,,33,123,,,
+2016,Tyler,Boyd,T.Boyd,Pittsburgh,WR,96,73.5,197,9.75,32,,4.58,11,34,119,4.35,6.9,
+2016,Chris,Brown,C.Brown,Notre Dame,WR,-55,74,194,9,32.25,,,,,,,,
+2016,Aaron,Burbridge,A.Burbridge,Michigan State,WR,-12,72,206,8.25,31.63,,4.56,20,30.5,115,4.31,7.22,11.9
+2016,Corey,Coleman,C.Coleman,Baylor,WR,-57,70.63,194,9,30.25,,,17,40.5,129,,,
+2016,Pharoh,Cooper,P.Cooper,South Carolina,WR,-30,71.13,203,9.13,32.25,,,15,31,115,,,
+2016,Cody,Core,C.Core,Mississippi,WR,4,74.63,205,,,,4.47,14,31.5,119,,,
+2016,Will,Fuller,W.Fuller,Notre Dame,WR,-15,72.13,186,8.25,30.75,,4.32,10,33.5,126,4.27,6.93,11.44
+2016,Rashard,Higgins,R.Higgins,Colorado State,WR,-14,73.38,196,9.75,32.25,,4.64,13,32,116,,,
+2016,Roger,Lewis,R.Lewis,Bowling Green (OH),WR,-29,72.38,201,9.75,32,,4.57,8,33.5,116,,,
+2016,Ricardo,Louis,R.Louis,Auburn,WR,-82,73.75,215,9.5,32.38,,4.43,18,38,132,,,
+2016,Byron,Marshall,B.Marshall,Oregon,WR,-35,69.38,201,9.5,30.25,,,17,,,,,
+2016,Jalin,Marshall,J.Marshall,Ohio State,WR,20,70.5,200,9.63,31.5,,4.6,16,37.5,125,4.13,6.8,
+2016,Braxton,Miller,B.Miller,Ohio State,WR,-79,73.38,201,9.13,31.75,,4.5,17,35,123,4.07,6.65,10.84
+2016,Malcolm,Mitchell,M.Mitchell,Georgia,WR,132,71.63,198,10.5,32.63,,4.45,15,36,129,4.34,6.94,
+2016,Chris,Moore,C.Moore,Cincinnati,WR,-68,73,206,9.38,33.38,,4.53,10,37,130,4.2,6.76,11.37
+2016,Charone,Peake,C.Peake,Clemson,WR,-51,74.38,209,9.25,34,,4.45,12,35.5,122,4.46,6.96,11.69
+2016,Tajae,Sharpe,T.Sharpe,Massachusetts,WR,23,74,194,8.38,32.25,,4.55,11,33.5,114,,,
+2016,Sterling,Shepard,S.Shepard,Oklahoma,WR,91,70.25,194,9.75,30.38,,4.48,20,41,123,4.35,7,
+2016,Michael,Thomas,M.Thomas,Ohio State,WR,431,74.75,212,10.5,32.13,,4.57,18,35,126,4.13,6.8,11.7
+2015,Nelson,Agholor,N.Agholor,Southern California,WR,-31,72.13,198,9.25,32.25,,4.42,12,,,,,
+2015,Da'Ron,Brown,D.Brown,Northern Illinois,WR,4,72.13,205,,,,4.54,17,37,120,4.11,7.04,
+2015,Chris,Conley,C.Conley,Georgia,WR,39,73.88,213,9.88,33.75,,4.35,18,45,139,4.3,7.06,11.65
+2015,Amari,Cooper,A.Cooper,Alabama,WR,122,72.88,211,10,31.5,21,4.42,,33,120,3.98,6.71,
+2015,Jamison,Crowder,J.Crowder,Duke,WR,52,68.38,185,8.75,30.38,,4.56,10,37,115,4.32,7.17,
+2015,Stefon,Diggs,S.Diggs,Maryland,WR,108,72,195,10,31.25,,4.46,,35,115,4.32,7.03,
+2015,Phillip,Dorsett,P.Dorsett,Miami (FL),WR,-59,69.75,185,9.38,30.25,,4.33,13,37,122,4.11,6.7,
+2015,Devin,Funchess,D.Funchess,Michigan,WR,9,76.25,232,9.75,33.5,,4.7,17,38.5,122,,,
+2015,Dorial,Green-Beckham,D.Green-Beckham,Missouri,WR,77,77.13,237,9,32.5,20,4.49,13,33.5,119,4.45,6.89,11.89
+2015,Rashad,Greene,R.Greene,Florida State,WR,-61,71.38,182,9,31.63,24,4.53,,36.5,122,4.12,6.88,
+2015,Justin,Hardy,J.Hardy,East Carolina (NC),WR,-32,70.25,192,10,32.13,,4.56,11,36.5,114,4.21,6.63,
+2014,Davante,Adams,D.Adams,Frenso State (CA),WR,19,72.88,212,9,32.63,,4.56,14,39.5,123,4.3,6.82,
+2014,Dri,Archer,D.Archer,Kent State (OH),WR,-45,67.75,173,8.88,31,,4.26,20,38,122,4.06,6.86,
+2014,Odell,Beckham,O.Beckham,Louisiana State,WR,396,71.25,198,10,32.75,,4.43,7,38.5,122,3.94,6.69,10.93
+2014,Kelvin,Benjamin,K.Benjamin,Florida State,WR,9,77,240,10.25,34.88,7,4.61,13,32.5,117,4.39,7.33,12.08
+2014,Corey,Brown,C.Brown,Ohio State,WR,59,71.38,178,9.38,31.75,,4.51,,33,115,4.22,7.16,11.94
+2014,Martavis,Bryant,M.Bryant,Clemson,WR,137,75.75,211,9.5,32.63,14,4.42,16,39,123,4.15,7.18,
+2014,Brandin,Cooks,B.Cooks,Oregon State,WR,124,69.75,189,9.63,30.75,,4.33,16,36,120,3.81,6.76,10.72
+2014,Bruce,Ellington,B.Ellington,South Carolina,WR,11,69.38,197,9.63,31,,4.45,15,39.5,120,3.95,6.69,11.12
+2014,Mike,Evans,M.Evans,Texas A&M,WR,222,76.75,231,9.63,35.13,25,4.53,12,37,,4.26,7.08,11.58
+2014,Ryan,Grant,R.Grant,Tulane (LA),WR,-27,72.38,199,9.63,31,,4.64,8,35.5,117,4.11,6.68,11.63
+2014,Robert,Herron,R.Herron,Wyoming,WR,-3,69.13,193,9.75,30.5,,4.48,18,35.5,124,4.27,6.84,
+2014,Josh,Huff,J.Huff,Oregon,WR,-49,71.25,206,9.38,31.25,,4.51,14,35.5,115,,,
+2014,Allen,Hurns,A.Hurns,Miami (FL),WR,-13,73.25,198,9.25,32,,4.55,14,31,120,4.5,7.23,
+2014,Jarvis,Landry,J.Landry,Louisiana State,WR,102,71.5,205,10.25,31.75,,4.65,12,28.5,110,,,
+2014,Marqise,Lee,M.Lee,Southern California,WR,-41,71.75,192,9.5,31.75,,4.52,,38,126,4.01,,
+2014,Jordan,Matthews,J.Matthews,Vanderbilt,WR,194,75.13,212,10.38,33.25,29,4.46,21,35.5,120,4.18,6.95,11.84
+2014,Donte,Moncrief,D.Moncrief,Mississippi,WR,47,74.38,221,9.13,32.38,,4.4,13,39.5,132,4.3,7.02,
+2014,Kevin,Norwood,K.Norwood,Alabama,WR,25,74,198,10,32.13,,4.48,8,33,121,4.32,6.68,11.46
+2014,Paul,Richardson,P.Richardson,Colorado,WR,-8,72.38,175,8.88,32.63,,4.4,,38,123,,7.09,
+2014,Allen,Robinson,A.Robinson,Penn State,WR,10,74.63,220,9.5,32,,4.6,,39,126,4,7,11.36
+2014,Sammy,Watkins,S.Watkins,Clemson,WR,71,72.75,211,9.63,32,,4.43,16,34,125,4.34,6.95,
+2014,Albert,Wilson,A.Wilson,Georgia State,WR,57,69,202,9.13,30.38,,4.43,10,37.5,123,4.21,7,
+2013,Tavon,Austin,T.Austin,West Virginia,WR,-36,68.5,174,9.18,30.08,7,4.34,14,32,120,4.01,,
+2013,Stedman,Bailey,S.Bailey,West Virginia,WR,36,70.25,193,9.78,32.68,,4.52,11,34.5,117,4.09,6.81,
+2013,Josh,Boyce,J.Boyce,Texas Christian,WR,9,71.13,206,9.28,31.28,,4.38,22,34,131,4.1,6.68,11.26
+2013,Marquise,Goodwin,M.Goodwin,Texas,WR,47,68.88,183,8.58,31.48,,4.27,13,,132,,,
+2013,DeAndre,Hopkins,D.Hopkins,Clemson,WR,139,73,214,10.08,33.38,,4.57,15,36,115,4.5,,
+2013,Justin,Hunter,J.Hunter,Tennessee,WR,30,76,196,9.38,33.28,12,4.44,,39.5,136,4.33,,
+2013,Darius,Johnson,D.Johnson,Southern Methodist (TX),WR,-40,69,179,9.18,30.28,,4.6,6,32,109,4.53,,
+2013,Cordarrelle,Patterson,C.Patterson,Tennessee,WR,4,73.88,216,9.08,31.68,11,4.42,,37,128,,,
+2013,DaRick,Rogers,D.Rogers,Tennessee Tech,WR,60,74.5,217,9.48,32.68,,4.52,10,39.5,132,4.06,6.71,11.31
+2013,Ace,Sanders,A.Sanders,South Carolina,WR,-99,67,173,8.78,29.48,,4.58,7,32,117,4.37,6.81,11.29
+2013,Kenny,Stills,K.Stills,Oklahoma,WR,206,72.5,194,9.08,30.48,,4.38,16,33.5,124,4.35,,
+2013,Kenbrell,Thompkins,K.Thompkins,Cincinnati,WR,4,72.63,193,8.68,32.28,,4.54,8,33.5,121,4.21,6.88,11.9
+2013,Markus,Wheaton,M.Wheaton,Oregon State,WR,-18,71,189,9.18,32.68,,4.45,20,37,120,4.02,6.8,11.16
+2013,Terrance,Williams,T.Williams,Baylor,WR,92,74,208,8.68,31.28,,4.52,11,32.5,119,4.32,7.01,11.5
+2013,Robert,Woods,R.Woods,Southern California,WR,5,73,201,9.28,31.08,23,4.51,14,33.5,117,4.47,7.15,
+2012,Travis,Benjamin,T.Benjamin,Miami (FL),WR,32,69.88,172,8.75,31.75,,4.31,14,38,119,,,
+2012,Justin,Blackmon,J.Blackmon,Oklahoma State,WR,-24,72.88,207,9.25,32.5,,4.48,14,,,,,
+2012,LaVon,Brazill,L.Brazill,Ohio,WR,10,70.63,192,9.75,32,,4.43,11,32.5,,,,
+2012,Ryan,Broyles,R.Broyles,Oklahoma,WR,128,70.13,192,9,30.25,,4.57,21,,,,,
+2012,Josh,Cooper,J.Cooper,Oklahoma State,WR,-8,70.63,190,9.5,31,,4.65,11,,,,,
+2012,Juron,Criner,J.Criner,Arizona,WR,-60,74.5,224,10.5,32,,4.66,17,38,117,4.3,7.15,
+2012,Michael,Floyd,M.Floyd,Notre Dame,WR,324,74.63,220,9.38,32.88,,4.4,16,36.5,122,,,
+2012,Chris,Givens,C.Givens,Wake Forest,WR,77,71.13,198,8.25,31.25,,4.35,19,33.5,118,4.23,6.97,
+2012,Stephen,Hill,S.Hill,Georgia Tech,WR,-11,76,215,9.38,33.38,,4.28,14,39.5,133,4.48,6.88,11.43
+2012,Alshon,Jeffery,A.Jeffery,South Carolina,WR,72,74.88,216,10.25,33,,4.48,,,,,,
+2012,Dwight,Jones,D.Jones,North Carolina,WR,29,75.25,230,9,34,,4.51,14,33,109,,,
+2012,Marvin,Jones,M.Jones,California,WR,29,73.88,199,10,33.13,,4.46,22,33,112,4.11,6.81,11.47
+2012,Keshawn,Martin,K.Martin,Michigan State,WR,-77,71.5,188,9.25,31.5,,4.42,13,39.5,122,4.13,6.85,11.16
+2012,Rishard,Matthews,R.Matthews,Nevada,WR,19,72.38,217,9.13,32.5,,4.54,20,36,,4.19,6.88,11.25
+2012,DeVier,Posey,D.Posey,Ohio State,WR,-26,73.63,211,9.63,31.63,,4.39,14,36.5,123,4.15,7.03,
+2012,Brian,Quick,B.Quick,Appalachian State (NC),WR,-27,75.5,220,9.75,34.25,,4.5,15,34,119,4.23,7.1,
+2012,Rueben,Randle,R.Randle,Louisiana State,WR,80,74.88,210,9.5,33,,4.55,15,31,121,4.36,6.99,11.78
+2012,Mohamed,Sanu,M.Sanu,Rutgers,WR,52,73.5,211,10.13,33.5,,4.62,19,36,126,4.22,6.88,
+2012,Jarius,Wright,J.Wright,Arkansas,WR,48,69.63,182,8.5,31.5,,4.39,11,38,120,4.03,6.93,
+2012,Kendall,Wright,K.Wright,Baylor,WR,-14,70.25,196,8.63,30.5,,4.49,,38.5,121,4.18,6.93,
+2012,Devon,Wylie,D.Wylie,Frenso State (CA),WR,-27,69,187,9.5,30.25,,4.36,17,39,123,,,
+2011,Jon,Baldwin,J.Baldwin,Pittsburgh,WR,-105,76.38,228,10.13,33.63,14,4.49,20,42,129,4.34,7.07,11.4
+2011,Vincent,Brown,V.Brown,San Diego State,WR,46,71.25,187,10.25,33,,4.68,12,33.5,121,4.25,6.64,
+2011,Randall,Cobb,R.Cobb,Kentucky,WR,127,70.25,191,9.38,31,,4.46,16,33.5,115,4.34,7.08,11.56
+2011,Leonard,Hankerson,L.Hankerson,Miami (FL),WR,21,73.5,209,10.63,32.25,,4.4,14,36,117,4.21,6.94,11.37
+2011,Julio,Jones,J.Jones,Alabama,WR,234,74.75,220,9.75,33.75,,4.34,17,38.5,135,4.25,6.66,11.07
+2011,Jeremy,Kerley,J.Kerley,Texas Christian,WR,6,69.5,189,9,30,,4.56,16,34.5,120,,,
+2011,Greg,Little,G.Little,North Carolina,WR,-92,74.5,231,9.13,33.25,,4.51,27,40.5,129,4.21,6.8,11.28
+2011,Denarius,Moore,D.Moore,Tennessee,WR,74,71.63,194,9.5,33,,4.43,13,36,118,4.15,6.78,
+2011,Austin,Pettis,A.Pettis,Boise State,WR,-39,74.63,209,9.75,31.75,,4.56,14,33.5,120,3.88,6.68,11.14
+2011,Greg,Salas,G.Salas,Hawaii,WR,-64,73.13,210,9.25,32,,4.53,15,37,120,4.1,6.65,11.21
+2011,Dane,Sanzenbacher,D.Sanzenbacher,Ohio State,WR,-22,71.38,182,8.25,30.5,,4.56,,33.5,118,3.97,6.46,10.94
+2011,Cecil,Shorts,C.Shorts,Mount Union (OH),WR,-37,71.75,205,9.25,31.63,,4.5,21,34.5,114,4.07,6.5,11.18
+2011,Torrey,Smith,T.Smith,Maryland,WR,180,72.88,204,8.63,32.63,,4.41,19,41,126,4.13,6.72,11.33
+2011,Marshall,Williams,M.Williams,Wake Forest,WR,-58,72.75,188,9.25,32,,4.56,9,35.5,123,4.09,6.61,11.38
+2011,Titus,Young,T.Young,Boise State,WR,70,71.38,174,9,30.88,,4.43,,,123,,,
+2010,Seyi,Ajirotutu,S.Ajirotutu,Frenso State (CA),WR,91,75.38,204,9.38,32.63,,4.6,14,36,115,4.39,7.22,
+2010,Arrelious,Benn,A.Benn,Illinois,WR,113,73,219,,,,4.57,20,37,118,,,
+2010,Antonio,Brown,A.Brown,Central Michigan,WR,58,70.13,186,,,,4.56,13,33.5,105,4.18,6.98,
+2010,Riley,Cooper,R.Cooper,Florida,WR,5,75.38,222,10.38,32.63,,4.53,,33,114,,,
+2010,Jacoby,Ford,J.Ford,Clemson,WR,41,68.88,186,,,,4.22,15,33.5,115,4.44,7,
+2010,David,Gettis,D.Gettis,Baylor,WR,66,75,217,,,,4.43,15,34.5,124,4.41,6.94,
+2010,Mardy,Gilyard,M.Gilyard,Cincinnati,WR,-38,71.88,187,9.13,32.25,,4.61,,39,116,4.4,6.92,11.59
+2010,Donald,Jones,D.Jones,Youngstown State (OH),WR,-74,72.38,214,,,,4.46,20,41,119,4.2,6.9,
+2010,Brandon,LaFell,B.LaFell,Louisiana State,WR,-38,74.5,211,,,,4.58,,36,115,4.23,6.81,
+2010,Dexter,McCluster,D.McCluster,Mississippi,WR,-17,68.75,172,8.38,29.25,18,4.53,20,37.5,118,4.06,,
+2010,Andre,Roberts,A.Roberts,Citadel (SC),WR,-99,70.88,195,,,,4.4,15,36,120,4.15,6.77,
+2010,Emmanuel,Sanders,E.Sanders,Southern Methodist (TX),WR,69,70.88,186,,,,4.4,12,39.5,126,4.1,6.64,
+2010,Jordan,Shipley,J.Shipley,Texas,WR,160,71.25,193,9.63,30.5,,4.6,16,36.5,116,,,
+2010,Golden,Tate,G.Tate,Notre Dame,WR,-41,70.25,199,9.25,30.5,,4.42,17,35,120,4.34,7.12,
+2010,Blair,White,B.White,Michigan State,WR,96,74.25,209,9.25,31.5,,4.49,18,33.5,115,4.03,6.69,11.07
+2010,Damian,Williams,D.Williams,Southern California,WR,18,72.63,197,9.25,31.75,,4.52,19,38,118,4.24,6.79,
+2010,Mike,Williams,M.Williams,Syracuse,WR,66,73.5,221,9.25,32.5,,4.53,8,33.5,116,4.31,6.9,
+2010,Stephen,Williams,S.Williams,Toledo,WR,-27,76.5,210,9.13,33.25,,4.5,15,36.5,125,4.11,6.81,
